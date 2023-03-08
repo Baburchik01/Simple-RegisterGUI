@@ -10,6 +10,9 @@
 ![GitBook](https://img.shields.io/badge/JavaFX-black?style=for-the-badge&logo=GitBook&logoColor=orange)
 ![GitBook](https://img.shields.io/badge/JavaSQL-black?style=for-the-badge&logo=GitBook&logoColor=blue)
 
+## Screen GUI
+<img src="https://github.com/Baburchik01/Simple-RegisterGUI/blob/Example/screens/RegisterGUI.png">
+
 ## Description
 Simple GUI Application for User Registration
 
